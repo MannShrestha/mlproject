@@ -19,5 +19,5 @@ logging.basicConfig(
 
 # for checking loggger has created or not
 
-if __name__=="__main__":
-    logging.info("Logging has started.")
+# if __name__=="__main__":
+#     logging.info("Logging has started.")
